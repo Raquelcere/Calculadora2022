@@ -7,7 +7,7 @@ package calculadora2022;
 
 /**
  *
- * @author dam
+ * @author dam1
  */
 public class Calculadora2022 {
 
